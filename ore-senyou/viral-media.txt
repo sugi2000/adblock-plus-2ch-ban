@@ -11,6 +11,7 @@
 ##a[href*="buzzlive.info"]
 ##a[href*="buzzmag.jp"]
 ##a[href*="buzzmode.jp"]
+##a[href*="buzz-plus.com"]
 ##a[href*="buzznews.asia"]
 ##a[href*="c-dle.com"]
 ##a[href*="chrmng.com"]
